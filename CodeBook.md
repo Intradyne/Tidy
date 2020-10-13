@@ -22,3 +22,13 @@ For each record in the dataset  provided:
 - A 561-feature vector with time and frequency domain variables.
 - Its associated activity label.
 - An identifier of the subject who carried out the experiment.
+
+### Required files from dataset
+activity_labels.txt
+features.txt
+test/X_test.txt
+test/Y_test.txt
+test/subject_test.txt
+train/X_train.txt
+train/Y_train.txt
+train/subject_train.txt
