@@ -24,11 +24,11 @@ For each record in the dataset  provided:
 - An identifier of the subject who carried out the experiment.
 
 ### Required files from dataset
-activity_labels.txt|
-features.txt|
-test/X_test.txt|
-test/Y_test.txt|
-test/subject_test.txt|
-train/X_train.txt|
-train/Y_train.txt|
+activity_labels.txt |
+features.txt |
+test/X_test.txt |
+test/Y_test.txt |
+test/subject_test.txt |
+train/X_train.txt |
+train/Y_train.txt |
 train/subject_train.txt

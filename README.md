@@ -23,9 +23,3 @@ README | [README Link](https://github.com/Intradyne/Tidy/blob/main/README.md "RE
 Tidy Data Set | [Data Set Link](https://github.com/Intradyne/Tidy/blob/main/tidyData.txt "tidyData.txt")
 Analysis R Script | [Analyze.R Link](https://github.com/Intradyne/Tidy/blob/main/run_analysis.R "run_analysis.R")
 Cookbook | [CodeBook.md  Link](https://github.com/Intradyne/Tidy/blob/main/CodeBook.md "CodeBook.md")
-
-    Merges the training and the test sets to create one data set.
-    .
-    Uses descriptive activity names to name the activities in the data set
-    Appropriately labels the data set with descriptive variable names.
-    From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
